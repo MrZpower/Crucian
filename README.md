@@ -13,6 +13,8 @@
 Click [**Here**](https://discordapp.com/api/oauth2/authorize?client_id=508679069571743746&permissions=8&scope=bot) to invite Crucian to your server
 
 ## Author
+
+[![Run on Repl.it](https://repl.it/badge/github/xCrypt0r/Crucian)](https://repl.it/github/xCrypt0r/Crucian)
 Crucian © xCrypt0r  
 Authored and maintained by xCryptor  
 
